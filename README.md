@@ -1,4 +1,3 @@
-# LoraChat_NodeMCUv3_E220
 # ESP8266 LoRa Chat com OLED e Interface Web
 
 Este projeto implementa um sistema de chat bidirecional simples usando dois módulos ESP8266 (NodeMCU) e módulos LoRa Ebyte E220 (baseados no LLCC68). Um dos nós possui um display OLED SSD1306 para mostrar status e a última mensagem recebida, enquanto ambos os nós hospedam uma interface web para visualização do histórico e envio de mensagens. Cada nó opera como um Access Point (AP) Wi-Fi independente.
